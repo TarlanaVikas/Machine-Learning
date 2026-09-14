@@ -123,6 +123,3 @@ plt.show()
 - Followed clean step-by-step modular coding and proper documentation.
 - Ready to proceed to modeling or deeper insights!
 
----
-
-# ✅ Status: COMPLETED
